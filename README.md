@@ -30,14 +30,14 @@ This is meant to cause thinking, investigating, tinkering, [nerd sniping](http:/
 ## Brain teasers
 These problems require you to write a little code to produce a desired outcome.
 
-1. Mutating strings Part 1 ([mutating-strings-part1](https://github.com/Keboo/BrainTeasers/tree/mutating-strings-part1))
-2. Mutating strings Part 2 ([mutating-strings-part2](https://github.com/Keboo/BrainTeasers/tree/mutating-strings-part2))
-3. Multiple Static Constructors ([multiple-static-constructors]((https://github.com/Keboo/BrainTeasers/tree/multiple-static-constructors)))
+- Mutating strings Part 1 ([mutating-strings-part1](https://github.com/Keboo/BrainTeasers/tree/mutating-strings-part1))
+- Mutating strings Part 2 ([mutating-strings-part2](https://github.com/Keboo/BrainTeasers/tree/mutating-strings-part2))
+- Multiple Static Constructors ([multiple-static-constructors](https://github.com/Keboo/BrainTeasers/tree/multiple-static-constructors))
 
 ## Spot the bug
 These problems require you to identify the what/why of how some code is working. Though you can clone the code and look at it, these can often simply be viewed in the browser to acquire the problem.
 
-1. Get the next item in the list ([list-next-item-error]((https://github.com/Keboo/BrainTeasers/tree/list-next-item-error)))
+- Get the next item in the list ([list-next-item-error](https://github.com/Keboo/BrainTeasers/tree/list-next-item-error))
 
 ## I found a mistake or have a suggestion for an entry
 Great! Feel free to open an issue, or submit a pull request. 

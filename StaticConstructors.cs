@@ -7,15 +7,20 @@ public class StaticConstructors
     [Fact]
     public void CallsStaticConstructorTwice()
     {
-        //TODO: Write code that makes the following assertion pass
+        _ = new First();
+        _ = new Second();
+        
         Assert.Equal(2, _refCount);
     }
 
-    private class InstanceCounter
+    private class InstanceCounter<T>
     {
         static InstanceCounter()
         {
             _refCount++;
         }
     }
+
+    private class First : InstanceCounter<int> { }
+    private class Second : InstanceCounter<string> { }
 }

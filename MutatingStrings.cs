@@ -15,6 +15,18 @@ public class MutatingStrings
 
     private static void CauseIdentityCrisis(string whoAmI)
     {
-        //TODO: Implement method
+        string target = "Grant";
+
+        // obtain pointer and iterate with replacing
+        unsafe
+        {
+            fixed (char* ptr = whoAmI)
+            {
+                for (int i = 0; i < whoAmI.Length; i++)
+                {
+                    ptr[i] = target[i];
+                }
+            }
+        }
     }
 }

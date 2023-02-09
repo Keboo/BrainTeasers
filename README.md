@@ -30,8 +30,8 @@ This is meant to cause thinking, investigating, tinkering, [nerd sniping](http:/
 ## Brain teasers
 These problems require you to write a little code to produce a desired outcome.
 
-- Mutating strings Part 1 ([mutating-strings-part1](https://github.com/Keboo/BrainTeasers/tree/mutating-strings-part1))
-- Mutating strings Part 2 ([mutating-strings-part2](https://github.com/Keboo/BrainTeasers/tree/mutating-strings-part2))
+- Mutating strings Part 1 ([mutating-strings/part1](https://github.com/Keboo/BrainTeasers/tree/mutating-strings/part1))
+- Mutating strings Part 2 ([mutating-strings/part2](https://github.com/Keboo/BrainTeasers/tree/mutating-strings/part2))
 - Multiple Static Constructors ([multiple-static-constructors](https://github.com/Keboo/BrainTeasers/tree/multiple-static-constructors))
 
 ## Spot the bug

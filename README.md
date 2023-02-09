@@ -11,8 +11,7 @@ Within C# [strings are immutable](https://learn.microsoft.com/dotnet/csharp/prog
 There is a single `MutatingStrings` class that contains a `CauseIdentityCrisis` method as well as a single unit test.
 Implement the `CauseIdentityCrisis` method such that the unit test passes. Though you can certainly add additional methods, the solution does not require any changes outside of the `CauseIdentityCrisis` method.
 
-# Solution
-`git switch mutating-strings-part1-solution`
+There is a `Hint1.md` and `Hint2.md` files if you are stuck and need some pointers on where to get started.
 
-## Addendums
-- *None*
+# Solution
+`git switch mutating-strings/part1-solution`

@@ -38,6 +38,7 @@ These problems require you to write a little code to produce a desired outcome.
 These problems require you to identify the what/why of how some code is working. Though you can clone the code and look at it, these can often simply be viewed in the browser to acquire the problem.
 
 - Get the next item in the list ([list-next-item-error](https://github.com/Keboo/BrainTeasers/tree/list-next-item-error))
+- Packaging up values ([packaging-up-values](https://github.com/Keboo/BrainTeasers/tree/packaging-up-values))
 
 ## I found a mistake or have a suggestion for an entry
 Great! Feel free to open an issue, or submit a pull request. 

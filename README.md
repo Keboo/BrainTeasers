@@ -1,6 +1,6 @@
 # Packaging Values
 
-<!-- [YouTube](https://youtube.keboo.dev) -->
+[YouTube](https://youtu.be/2BCVlPv0DUo)
 
 # Required setup
 .NET 7
@@ -13,6 +13,3 @@ There is also a Hint1.md file that contains some unit tests that will demonstate
 
 # Solution
 `git switch packaging-up-values-solution`
-
-## Addendums
-- *None*

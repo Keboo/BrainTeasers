@@ -1,6 +1,6 @@
 # Hint 1
 
-The following unit tests will demonstate the failure case with `ValueHolder`.
+The following unit tests will demonstrate the failure case with `ValueHolder`.
 Two of these tests will pass, but one will fail.
 
 ```C#

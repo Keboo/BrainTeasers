@@ -1,6 +1,6 @@
 # Mutating Strings - Part 1
 
-<!-- [YouTube](https://youtube.keboo.dev) -->
+[YouTube](https://youtu.be/9eGTYdmURt4)
 
 # Required setup
 .NET 7

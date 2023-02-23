@@ -34,6 +34,7 @@ These problems require you to write a little code to produce a desired outcome.
 - Mutating strings Part 2 ([mutating-strings/part2](https://github.com/Keboo/BrainTeasers/tree/mutating-strings/part2))
 - Multiple Static Constructors ([multiple-static-constructors](https://github.com/Keboo/BrainTeasers/tree/multiple-static-constructors))
 - Long Class Names ([long-class-names](https://github.com/Keboo/BrainTeasers/tree/long-class-names))
+- Getting Values Without Error ([getting-values-without-error](https://github.com/Keboo/BrainTeasers/tree/getting-values-without-error))
 
 ## Spot the bug
 These problems require you to identify the what/why of how some code is working. Though you can clone the code and look at it, these can often simply be viewed in the browser to acquire the problem.

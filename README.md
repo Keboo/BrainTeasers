@@ -36,6 +36,7 @@ These problems require you to write a little code to produce a desired outcome.
 - Long Class Names ([long-class-names](https://github.com/Keboo/BrainTeasers/tree/long-class-names))
 - Getting Values Without Error ([getting-values-without-error](https://github.com/Keboo/BrainTeasers/tree/getting-values-without-error))
 - Adding Up the Flags ([getting-values-without-error](https://github.com/Keboo/BrainTeasers/tree/adding-up-the-flags))
+- Wait for Anything ([wait-for-anything](https://github.com/Keboo/BrainTeasers/tree/wait-for-anything))
 
 ## Spot the bug
 These problems require you to identify the what/why of how some code is working. Though you can clone the code and look at it, these can often simply be viewed in the browser to acquire the problem.

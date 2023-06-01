@@ -37,12 +37,14 @@ These problems require you to write a little code to produce a desired outcome.
 - Getting Values Without Error ([getting-values-without-error](https://github.com/Keboo/BrainTeasers/tree/getting-values-without-error))
 - Adding Up the Flags ([getting-values-without-error](https://github.com/Keboo/BrainTeasers/tree/adding-up-the-flags))
 - Wait for Anything ([wait-for-anything](https://github.com/Keboo/BrainTeasers/tree/wait-for-anything))
+- Enumeration Counts ([enumeration-counts](https://github.com/Keboo/BrainTeasers/tree/enumeration-counts))
 
 ## Spot the bug
 These problems require you to identify the what/why of how some code is working. Though you can clone the code and look at it, these can often simply be viewed in the browser to acquire the problem.
 
 - Get the next item in the list ([list-next-item-error](https://github.com/Keboo/BrainTeasers/tree/list-next-item-error))
 - Packaging up values ([packaging-up-values](https://github.com/Keboo/BrainTeasers/tree/packaging-up-values))
+- Byte Iterator ([byte-iterator](https://github.com/Keboo/BrainTeasers/tree/byte-iterator))
 
 ## I found a mistake or have a suggestion for an entry
 Great! Feel free to open an issue, or submit a pull request. 
